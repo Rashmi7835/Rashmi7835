@@ -65,8 +65,7 @@ I believe in learning by doing, growing every day, and coding with a smile 😊
  🤝 Let's Connect
 
 - 📬 **Email:** rashuu7835@gmail.com  
-- 📱 **Phone:** +91 78355997031  
-- 💼 **LinkedIn:** Coming soon...  
+ - 💼 **LinkedIn:** Coming soon...  
 - 🧠 **Fun Fact:** I talk to my bugs like they're my code babies 🐛👶
 
 ---
