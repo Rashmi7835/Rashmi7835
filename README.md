@@ -68,7 +68,4 @@ I believe in learning by doing, growing every day, and coding with a smile 😊
  - 💼 **LinkedIn:** Coming soon...  
 - 🧠 **Fun Fact:** I talk to my bugs like they're my code babies 🐛👶
 
----
-
-> _“Stay curious, keep building, and let your work speak louder than your resume.” – Ray 💫_
 
